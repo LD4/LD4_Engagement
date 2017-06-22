@@ -1,5 +1,9 @@
 # LD4 Community Engagement Project / Group Name
 
+```
+See here for getting started with this template: https://github.com/LD4/LD4_Engagement/wiki/LD4-Community-Engagement-Group-Project-Template:-Getting-Started
+```
+
 ## About
 
 [Linked Data for Libraries, Linked Data for Production, and Linked Data for Libraries Labs](https://ld4l.org/) are a series of grant-funded projects working broadly on implementing Linked Data in library workflows across functional areas and domains. The umbrella effort is referred to as 'LD4'.
@@ -8,24 +12,24 @@
 
 ### Conveners:
 
-You should have at least 1, but preferably 2, conveners or leaders for any project or group. They do not need to be a LD4 Partner, but that is strongly recommended - if the leader is not a LD4 Partner, you should have a LD4 Partner who agrees to be the contact for the group to LD4 Partners. List the conveners name, GitHub username and email here.
+* List the conveners name, GitHub username and email here.
 
 ### Scope
 
-*A scope should include not just what you will cover, but also what you will _not_ cover. Scopes are important for helping situate participants and set expectations.*
+*short description of the scope of this project or group.*
 
-This project or group is an effort to:
-- *enter your work areas or proposed artifacts*
+This project/group is an effort to:
+- *enter your motivating needs, identified work areas or proposed artifacts*
 
-*Then add any specific term definitions you may want to clarify for your group or project here.*
+*Add any specific term definitions you may want to clarify for your group or project here.*
 
-*Optionally, you can include some indication of why this group formed or the source for the project - motivating use cases - here as well.*
+*Optionally, you can also include some indication of why this group formed or the motivating use cases for the project.*
 
 ### Participants
 
-The group is open to anyone who wants to contribute. [Get in touch the conveners](#conveners) if you're uncertain where to start or how to jump in.
+The group is open to [*indicate who can take part - public, LD4 Community, LD4 Partners, Specific Application Developers, ...*]. Here is a list of open issues or work needs for folks to see how they can jump in: *point to where you are planning and monitoring work - issues, project board, etc.*
 
-*list out the name, GitHub usernames, and emails of participants. Invite new participants to add their name via pull requests as well.*
+*list out the name, GitHub usernames, and emails of participants. Invite new participants to add their name via pull requests.*
 
 ## Working Areas
 
@@ -35,7 +39,7 @@ The group is open to anyone who wants to contribute. [Get in touch the conveners
 
 ### General Timeframe
 
-**For group outputs:** Focus on smaller deliverables with shorter timeframes (< 3 months), as well as parallel work to cover a few different areas of work at the same time. We will start planning these at the kick-off meeting. *Shorter timeframes on smaller outputs allow us to avoid frustration at lack of output.*
+**For group outputs:** *Enter your proposed timeframe for smaller, scoped work outputs.*
 
 **For larger group planning:** Plan on an assessment at 1 year (or earlier if things seem to not be working). The 1 year mark is a time to rotate conveners, choose new meeting times, refresh the goals, disband, morph, etc.
 
