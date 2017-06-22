@@ -1,6 +1,6 @@
 # LD4 Community Engagement Project / Group Name
 
-**See here for getting started with this template: https://github.com/LD4/LD4_Engagement/wiki/LD4-Community-Engagement-Group-Project-Template:-Getting-Started **
+**See here for getting started with this template: https://github.com/LD4/LD4_Engagement/wiki/LD4-Community-Engagement-Group-Project-Template:-Getting-Started**
 
 ## About
 
